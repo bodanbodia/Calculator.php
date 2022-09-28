@@ -2,7 +2,7 @@
 <html>
 <head>
     <title>Калькулятор</title>
-    <link rel="stylesheet" href="css/classes.css">
+    <link rel="stylesheet" href="classes.css">
 </head>
 <body>
 <?php
